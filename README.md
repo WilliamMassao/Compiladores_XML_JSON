@@ -5,7 +5,7 @@ Ler arquivo de entrada em formato XML e gerar saída em formato JSON utilizando 
 Esta atividade explora os níveis cognitivos criar e entender conforme a taxonomia de Bloom.
 
 Integrantes do Grupo:
-Aluna:Beatriz Xavier Manfron RA:081190032
-Aluno:Henrique Bragante Galli RA:081190044
-Aluno:Vítor Longarini da Costa RA:081190046
-Aluno:William Massao Marubayashi Saito RA:081190001
+Aluna:Beatriz Xavier Manfron RA:081190032  
+Aluno:Henrique Bragante Galli RA:081190044  
+Aluno:Vítor Longarini da Costa RA:081190046  
+Aluno:William Massao Marubayashi Saito RA:081190001  
