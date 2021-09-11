@@ -3,13 +3,7 @@ import java.io.IOException;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
-import java.io.*;
 
-import org.xml.sax.*;
-import javax.xml.parsers.*;
-import javax.xml.transform.*;
-import javax.xml.transform.stream.*;
-import javax.xml.transform.sax.*;
 
 public class App {
     public static void main(String[] args) throws Exception {
